@@ -1,0 +1,7 @@
+{
+  "name": "Copy of UniGuide",
+  "description": "An all-in-one college application assistant powered by Gemini. Find scholarships, research dream colleges, discover internships, and perfect your essays with AI-driven guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
